@@ -3,9 +3,8 @@ I'm a passionate developer who loves experimenting with creative ideas, AI, and 
 
 ## 🚀 Skills & Technologies
 
-- 💻 Programming:  `C++`, `JavaScript`, `TypeScript`
-- 🌐 Web: `HTML`, `CSS`, `React`, `Node.js`, `Express`, `Tailwind CSS`
-- 🛢️ Databases: `MySQL`
+- 💻 Programming:  `C++`, `JavaScript`
+- 🌐 Web: `HTML`, `CSS`, `Vue.js`, `Tailwind CSS`
 
 ## 📂 Project Highlight
 
@@ -16,8 +15,3 @@ The AI keeps the chain going, reacting to user input using large language models
 🛠️ *Groq API, LLaMA model, Node.js, Netlify Functions, JavaScript, HTML, CSS*
 
 ---
-
-## 📫 Let's Connect
-
-- 📧 Email: [uleckirafal[@]gmail.com](mailto:uleckirafal@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/rafalulecki](https://www.linkedin.com/in/rafalulecki/)
