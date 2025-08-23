@@ -3,8 +3,9 @@ I'm a passionate developer who loves experimenting with creative ideas, AI, and 
 
 ## 🚀 Skills & Technologies
 
-- 💻 Programming:  `C++`, `JavaScript`
-- 🌐 Web: `HTML`, `CSS`, `Vue.js`, `Tailwind CSS`
+- 💻 Programming: `TypeScript`, `JavaScript`, `C++`
+- 🌐 Web: `HTML`, `CSS`, `React.js`, `Node.js`, `Express.js`, `Vue.js`, `Tailwind CSS`
+= 🛢️ Database: `MongoDB`, `MySQL`
 
 ## 📂 Project Highlight
 
