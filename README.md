@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm Rafal!
-I'm a passionate developer who loves experimenting with creative ideas, AI, and web tech. 
+I'm a developer who loves experimenting with creative ideas, AI, and web tech. 
 
 ## 🚀 Skills & Technologies
 
 - 💻 Programming: `TypeScript`, `JavaScript`, `C++`
 - 🌐 Web: `HTML`, `CSS`, `React.js`, `Node.js`, `Express.js`, `Vue.js`, `Tailwind CSS`
-= 🛢️ Database: `MongoDB`, `MySQL`
+- 🛢️ Database: `MongoDB`, `MySQL`
 
 ## 📂 Project Highlight
 
