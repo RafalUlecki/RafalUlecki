@@ -1,7 +1,8 @@
 # 👋 hello!
 
-- love to experiment with creative ideas, web and ai tech.
-- working, learning, building random stuff.
+- software engineering student & builder
+- into web, AI, design, and creative experiments
+- learning by building random things on the internet
 
 ## 🚀 skills & technologies
 
