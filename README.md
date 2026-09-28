@@ -7,6 +7,6 @@
 ## 🚀 skills & technologies
 
 - 💻 programming: `TypeScript`, `JavaScript`, `Python`, `C++`
-- 🌐 web: `React.js`, `Node.js`, `Express.js`, `Tailwind CSS`, `HTML`, `CSS`, `Vue.js`
-- 🛢️ database: `MongoDB`, `MySQL`
+- 🌐 web: `React.js`, `Node.js`, `Express.js`, `Tailwind CSS`, `TanStack`
+- 🛢️ database: `MongoDB`, `MySQL`, `RethinkDB`
 ---
